@@ -8,6 +8,14 @@
 {{ .Params.bar }}
 ```
 
+```
+.Data.Singular The singular name of the taxonomy
+.Data.Plural The plural name of the taxonomy
+.Data.Terms The taxonomy itself
+.Data.Terms.Alphabetical The Terms alphabetized
+.Data.Terms.ByCount The Terms ordered by popularity
+```
+
 
 ## Examples
 
